@@ -171,6 +171,7 @@ const WhatIDo = () => {
                 <div className="what-tags">Flutter</div>
                 <div className="what-tags">Dart</div>
                 <div className="what-tags">Provider</div>
+                <div className="what-tags">GetX</div>
               </div>
               <div className="what-arrow"></div>
             </div>
